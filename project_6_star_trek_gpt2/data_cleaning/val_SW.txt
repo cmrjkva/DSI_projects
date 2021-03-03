@@ -1,0 +1,503 @@
+ "THREEPIO" "... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!"
+
+ "THREEPIO" "Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!"
+
+ "THREEPIO" "Oh, oh, oh, oh! Thank goodness."
+
+ "LUKE" "Thanks, Threepio."
+
+ "THREEPIO" "I...I never knew I had it in me."
+
+ "THREEPIO" "Yes, Artoo. I was just coming to that."
+
+ "HAN" "What's going on?"
+
+ "LEIA" "I don't know."
+
+ "THREEPIO" "Wonderful! We are now a part of the tribe."
+
+ "HAN" "Just what I always wanted."
+
+ "HAN" "Well, short help is better than no help at all, Chewie.  Thank you. Okay."
+
+ "THREEPIO" "He says the scouts are going to show us the quickest way to the shield generator."
+
+ "HAN" "Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back."
+
+ "HAN" "And hurry up, will ya? I haven't got all day."
+
+ "LUKE" "Luke, what's wrong?"
+
+ "LUKE" "Leia... do you remember your mother? Your real mother?"
+
+ "LEIA" "Just a little bit. She died when I was very young."
+
+ "LUKE" "What do you remember?"
+
+ "LEIA" "Just...images, really. Feelings."
+
+ "LUKE" "Tell me."
+
+ "LEIA" "She was very beautiful. Kind, but...sad.  Why are you asking me all this?"
+
+ "LUKE" "I have no memory of my mother. I never knew her."
+
+ "LEIA" "Luke, tell me. What's troubling you?"
+
+ "LUKE" "Vader is here...now, on this moon."
+
+ "LEIA" "How do you know?"
+
+ "LUKE" "I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go.  As long as I stay, I'm endangering the group and our mission here.  I have to face him."
+
+ "LEIA" "Why?"
+
+ "LUKE" "He's my father."
+
+ "LEIA" "Your father?"
+
+ "LUKE" "There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance."
+
+ "LEIA" "Luke, don't talk that way. You have a power I--I don't understand and could never have."
+
+ "LUKE" "You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it."
+
+ "LUKE" "Yes. It's you Leia."
+
+ "LEIA" "I know. Somehow...I've always known."
+
+ "LUKE" "Then you know why I have to face him."
+
+ "LEIA" "No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you."
+
+ "LUKE" "No, you don't. You've always been strong."
+
+ "LEIA" "But, why must you confront him?"
+
+ "LUKE" "Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try."
+
+ "HAN" "Hey, what's goin' on?"
+
+ "LEIA" "Nothing. I - just want to be alone for a little while."
+
+ "HAN" "Nothing?  Come on, tell me.  What's goin' on?"
+
+ "LEIA" "I...I can't tell you."
+
+ "HAN" "Did you tell Luke? Is that who you could tell?"
+
+ "LEIA" "I..."
+
+ "HAN" "Ahhh..."
+
+ "HAN" "I'm sorry."
+
+ "LEIA" "Hold me."
+
+ "COMMANDER" "This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area."
+
+ "COMMANDER" "He was armed only with this."
+
+ "VADER" "Good work, Commander. Leave us. Conduct your search and bring his companions to me."
+
+ "COMMANDER" "Yes, my Lord."
+
+ "VADER" "The Emperor has been expecting you."
+
+ "LUKE" "I know, father."
+
+ "VADER" "So, you have accepted the truth."
+
+ "LUKE" "I've accepted the truth that you were once Anakin Skywalker, my father."
+
+ "VADER" "That name no longer has any meaning for me."
+
+ "LUKE" "It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now."
+
+ "VADER" "I see you have constructed a new lightsaber."
+
+ "VADER" "Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen."
+
+ "LUKE" "Come with me."
+
+ "VADER" "Obi-Wan once thought as you do."
+
+ "VADER" "You don't know the power of the dark side. I must obey my master."
+
+ "LUKE" "I will not turn...and you'll be forced to kill me."
+
+ "VADER" "If that is your destiny."
+
+ "LUKE" "Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate."
+
+ "VADER" "It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now."
+
+ "LUKE" "Then my father is truly dead."
+
+ "LEIA" "The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy."
+
+ "HAN" "Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this."
+
+ "LEIA" "What's he saying?"
+
+ "THREEPIO" "He says there's a secret entrance on the other side of the ridge."
+
+ "LANDO" "Admiral, we're in position. All fighters accounted for."
+
+ "ACKBAR" "Proceed with the countdown. All groups assume attack coordinates."
+
+ "LANDO" "Don't worry, my friends are down there. They'll have that shield down on time... or this'll be the shortest offensive of all time."
+
+ "ACKBAR" "All craft, prepare to jump to hyperspace on my mark."
+
+ "LANDO" "All right. Stand by."
+
+ "HAN" "Back door, huh? Good idea."
+
+ "HAN" "It's only a few guards. This shouldn't be too much trouble."
+
+ "LEIA" "Well, it only takes one to sound the alarm."
+
+ "HAN" "Then we'll do it real quiet-like."
+
+ "THREEPIO" "Oh! Oh, my. Uh, Princess Leia!"
+
+ "LEIA" "Quiet."
+
+ "THREEPIO" "I'm afraid our furry companion has gone and done something rather rash."
+
+ "LEIA" "Oh, no."
+
+ "HAN" "There goes our surprise attack."
+
+ "SCOUT" "Look! Over there! Stop him!"
+
+ "HAN" "Not bad for a little furball. There's only one left. You stay here. We'll take care of this."
+
+ "THREEPIO" "I have decided that we shall stay here."
+
+ "EMPEROR" "Welcome, young Skywalker. I have been expecting you."
+
+ "EMPEROR" "You no longer need those."
+
+ "EMPEROR" "Guards, leave us."
+
+ "EMPEROR" "I'm looking forward to completing your training. In time you will call me Master."
+
+ "LUKE" "You're gravely mistaken. You won't convert me as you did my father."
+
+ "EMPEROR" "Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things."
+
+ "VADER" "His lightsaber."
+
+ "EMPEROR" "Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you."
+
+ "LUKE" "You're wrong. Soon I'll be dead...and you with me."
+
+ "EMPEROR" "Perhaps you refer to the imminent attack of your Rebel fleet."
+
+ "EMPEROR" "Yes...I assure you we are quite safe from your friends here."
+
+ "LUKE" "Your overconfidence is your weakness."
+
+ "EMPEROR" "Your faith in your friends is yours."
+
+ "VADER" "It is pointless to resist, my son."
+
+ "EMPEROR" "Everything that has transpired has done so according to my design.  Your friends up there on the Sanctuary Moon..."
+
+ "EMPEROR" "...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them."
+
+ "EMPEROR" "Oh...I'm afraid the deflector shield will be quite operational when your friends arrive."
+
+ "HAN" "All right! Up! Move! Come on! Quickly! Quickly, Chewie."
+
+ "LEIA" "Han! Hurry! The fleet will be here any moment."
+
+ "HAN" "Charges!  Come on, come on!"
+
+ "THREEPIO" "Oh, my! They'll be captured!"
+
+ "THREEPIO" "Wa-wait! Wait, come back! Artoo, stay with me."
+
+ "COMMANDER" "Freeze! You Rebel scum."
+
+ "LANDO" "All wings report in."
+
+ "WEDGE" "Red Leader standing by."
+
+ "GRAY LEADER" "Gray Leader standing by."
+
+ "GREEN LEADER" "Green Leader standing by."
+
+ "WEDGE" "Lock S-foils in attack positions."
+
+ "ACKBAR" "May the Force be with us."
+
+ "LANDO" "We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming."
+
+ "LANDO" "Break off the attack! The shield is still up."
+
+ "RED LEADER" "I get no reading. Are you sure?"
+
+ "LANDO" "Pull up! All craft pull up!"
+
+ "ACKBAR" "Take evasive action! Green Group, stick close to holding sector MV-."
+
+ "CONTROLLER" "Admiral, we have enemy ships in sector ."
+
+ "ACKBAR" "It's a trap!"
+
+ "LANDO" "Fighters coming in."
+
+ "REBEL PILOT" "There's too many of them!"
+
+ "LANDO" "Accelerate to attack speed! Draw their fire away from the cruisers."
+
+ "WEDGE" "Copy, Gold Leader."
+
+ "EMPEROR" "Come, boy. See for yourself."
+
+ "EMPEROR" "From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion."
+
+ "EMPEROR" "You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant."
+
+ "LUKE" "No!"
+
+ "EMPEROR" "It is unavoidable. It is your destiny. You, like your father, are now mine!"
+
+ "STORMTROOPER" "All right, move it! I said move it! Go on!"
+
+ "THREEPIO" "Hello! I say, over there! Were you looking for me?"
+
+ "BUNKER COMMANDER" "Bring those two down here!"
+
+ "STORMTROOPER" "Let's go!"
+
+ "THREEPIO" "Well, they're on their way. Artoo, are you sure this was a good idea?"
+
+ "STORMTROOPER" "Freeze! Don't move!"
+
+ "THREEPIO" "We surrender."
+
+ "THREEPIO" "Ohhh! Stand back, Artoo."
+
+ "LEIA" "The code's changed. We need Artoo!"
+
+ "HAN" "Here's the terminal."
+
+ "LEIA" "Artoo, where are you? We need you at the bunker right away."
+
+ "THREEPIO" "Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!"
+
+ "LANDO" "Watch yourself, Wedge! Three from above!"
+
+ "WEDGE" "Red Three, Red Two, pull in!"
+
+ "RED TWO" "Got it!"
+
+ "RED THREE" "Three of them coming in, twenty degrees!"
+
+ "WEDGE" "Cut to the left! I'll take the leader! They're heading for the medical frigate."
+
+ "NAVIGATOR" "Pressure's steady."
+
+ "LANDO" "Only the fighters are attacking.  I wonder what those Star Destroyers are waiting for."
+
+ "COMMANDER" "We're in attack position now, sir."
+
+ "PIETT" "Hold here."
+
+ "COMMANDER" "We're not going to attack?"
+
+ "PIETT" "I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping."
+
+ "EMPEROR" "As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station.  Fire at will, Commander."
+
+ "JERJERROD" "Fire!"
+
+ "LANDO" "That blast came from the Death Star! That thing's operational!  Home One, this is Gold Leader."
+
+ "ACKBAR" "We saw it. All craft prepare to retreat."
+
+ "LANDO" "You won't get another chance at this, Admiral."
+
+ "ACKBAR" "We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude."
+
+ "LANDO" "Han will have that shield down. We've got to give him more time."
+
+ "THREEPIO" "We're coming!"
+
+ "HAN" "Come on! Come on!"
+
+ "THREEPIO" "Oh, Artoo, hurry!"
+
+ "THREEPIO" "My goodness! Artoo, why did you have to be so brave?"
+
+ "HAN" "Well, I suppose I could hotwire this thing."
+
+ "LEIA" "I'll cover you."
+
+ "LANDO" "Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range."
+
+ "ACKBAR" "At that close range, we won't last long against those Star Destroyers."
+
+ "LANDO" "We'll last longer then we will against that Death Star...and we might just take a few of them with us."
+
+ "REBEL PILOT" "She's gonna blow!"
+
+ "Y-WING PILOT" "I'm hit!"
+
+ "EMPEROR" "Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends."
+
+ "EMPEROR" "Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete."
+
+ "WALKER PILOT #" "Look!"
+
+ "PILOT #" "Get him off of there!"
+
+ "HAN" "I think I got it. I got it!"
+
+ "THREEPIO" "Oh, Princess Leia, are you all right?"
+
+ "HAN" "Let's see."
+
+ "LEIA" "It's not bad."
+
+ "STORMTROOPER" "Freeze!"
+
+ "THREEPIO" "Oh, dear."
+
+ "STORMTROOPER" "Don't move!"
+
+ "HAN" "I love you."
+
+ "LEIA" "I know."
+
+ "STORMTROOPER" "Hands up! Stand up!"
+
+ "HAN" "Stay back."
+
+ "HAN" "Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea."
+
+ "EMPEROR" "Good.  Use your aggressive feelings, boy!  Let the hate flow through you."
+
+ "VADER" "Obi-Wan has taught you well."
+
+ "LUKE" "I will not fight you, father."
+
+ "VADER" "You are unwise to lower your defenses."
+
+ "LUKE" "Your thoughts betray you, father. I feel the good in you...the conflict."
+
+ "VADER" "There is no conflict."
+
+ "LUKE" "You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now."
+
+ "VADER" "You underestimate the power of the dark side. If you will not fight, then you will meet your destiny."
+
+ "EMPEROR" "Good.  Good."
+
+ "LANDO" "Watch out. Squad at .."
+
+ "REBEL PILOT" "I'm on it, Gold Leader."
+
+ "WEDGE" "Good shot, Red Two."
+
+ "LANDO" "Now...come on, Han, old buddy. Don't let me down."
+
+ "HAN/PILOT" "It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit."
+
+ "CONTROL ROOM COMMANDER" "Send three squads to help. Open the back door."
+
+ "SECOND COMMANDER" "Yes, sir."
+
+ "HAN" "Throw me another charge."
+
+ "VADER" "You cannot hide forever, Luke."
+
+ "LUKE" "I will not fight you."
+
+ "VADER" "Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for..."
+
+ "VADER" "Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will."
+
+ "LUKE" "Never-r-r!"
+
+ "EMPEROR" "Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!"
+
+ "LUKE" "Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me."
+
+ "EMPEROR" "So be it...Jedi."
+
+ "HAN" "Move! Move!"
+
+ "ACKBAR" "The shield is down! Commence attack on the Death Star's main reactor."
+
+ "LANDO" "We're on our way. Red Group, Gold Group, all fighters follow me.  Told you they'd do it!"
+
+ "EMPEROR" "If you will not be turned, you will be destroyed."
+
+ "EMPEROR" "Young fool...only now, at the end, do you understand."
+
+ "EMPEROR" "Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision."
+
+ "LUKE" "Father, please. Help me."
+
+ "EMPEROR" "Now, young Skywalker...you will die."
+
+ "WEDGE" "I'm going in."
+
+ "LANDO" "Here goes nothing."
+
+ "LANDO" "Now lock onto the strongest power source. It should be the power generator."
+
+ "WEDGE" "Form up. And stay alert. We could run out of space real fast."
+
+ "LANDO" "Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you."
+
+ "PILOT" "Copy, Gold Leader."
+
+ "LANDO" "That was too close."
+
+ "ACKBAR" "We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer."
+
+ "CONTROLLER" "Sir, we've lost our bridge deflector shield."
+
+ "PIETT" "Intensify the forward batteries. I don't want anything to get through."
+
+ "PIETT" "Intensify forward firepower!"
+
+ "COMMANDER" "It's too late!"
+
+ "VADER" "Luke, help me take this mask off."
+
+ "LURE" "But you'll die."
+
+ "VADER" "Nothing can stop that now. Just for once... let me look on you with my own eyes."
+
+ "ANAKIN" "Now...go, my son. Leave me."
+
+ "LUKE" "No. You're coming with me. I can't leave you here. I've got to save you."
+
+ "ANAKIN" "You already have, Luke. You were right about me. Tell your sister...you were right."
+
+ "LUKE" "Father... I won't leave you."
+
+ "WEDGE" "There it is!"
+
+ "LANDO" "All right, Wedge. Go for the power regulator on the north tower."
+
+ "WEDGE" "Copy, Gold Leader. I'm already on my way out."
+
+ "ACKBAR" "Move the fleet away from the Death Star."
+
+ "LANDO" "Wedge, I don't think we're going to make it."
+
+ "WEDGE" "You'll make it. Just follow me Gold Leader."
+
+ "LANDO" "I promised to return his ship without a scratch...I sure hope that old pirate forgives me."
+
+ "HAN" "Lando..."
+
+ "THREEPIO" "They did it!"
