@@ -1,0 +1,417 @@
+school,testoptional?,appliestoclassyear(s),numberofapplicants,sat25,sat75,accept_rate
+Stanford University,Yes,2021,47452,1440.0,1570.0,0.043
+Harvard College,Yes,2021,42749,1460.0,1580.0,0.047
+Princeton University,Yes,2021,35370,1440.0,1570.0,0.055
+Columbia University,Yes,2021,40203,1450.0,1560.0,0.055
+Yale University,Yes,2021,36844,1460.0,1570.0,0.061
+California Institute of Technology,Yes (TB),2021 2022,8367,1530.0,1560.0,0.064
+Massachusetts Institute of Technology,Yes,2021,21706,1500.0,1570.0,0.067
+Brown University,Yes,2021,38674,1440.0,1570.0,0.071
+University of Chicago,Yes,All / Permanent Policy,32283,1490.0,1570.0,0.073
+Pomona College,Yes,2021,10401,1390.0,1540.0,0.07400000000000001
+University of Pennsylvania,Yes,2021,44961,1450.0,1560.0,0.077
+Dartmouth College,Yes,2021,23650,1440.0,1560.0,0.079
+Bowdoin College,Yes,All / Permanent Policy,9332,1330.0,1520.0,0.08800000000000001
+Duke University,Yes,2021,35767,1450.0,1570.0,0.08900000000000001
+Swarthmore College,Yes,2021 2022,11442,1380.0,1540.0,0.08900000000000001
+Northwestern University,Yes,2021,40585,1440.0,1550.0,0.091
+Vanderbilt University,Yes,2021,37310,1460.0,1560.0,0.091
+Claremont McKenna College,Yes,2021,6066,1360.0,1510.0,0.10300000000000001
+Johns Hopkins University,Yes,2021,29129,1470.0,1560.0,0.106
+Cornell University,Yes,2021,49114,1400.0,1560.0,0.109
+Rice University,Yes,2021,20923,1450.0,1560.0,0.111
+Amherst College,Yes,2021,10569,1410.0,1550.0,0.113
+Barnard College,Yes,2021,9320,1340.0,1520.0,0.11800000000000001
+Bates College,Yes,All / Permanent Policy,8222,1270.0,1480.0,0.121
+University of California—​Los Angeles,Yes,2021 2022 2023 2024,111322,1290.0,1510.0,0.12300000000000001
+Tulane University,Yes,2021,42185,1360.0,1520.0,0.129
+University of Southern California,Yes,2021,64352,1350.0,1530.0,0.13
+Williams College,Yes,2021,9560,1410.0,1550.0,0.13
+Colby College,Yes,All / Permanent Policy,12313,1350.0,1510.0,0.13
+Pitzer College,Yes,All / Permanent Policy,4358,1340.0,1490.0,0.133
+Colorado College,Yes,All / Permanent Policy,9456,1300.0,1480.0,0.135
+Harvey Mudd College,Yes,2021,4045,1490.0,1570.0,0.13699999999999998
+Georgetown University,Yes,2021,22872,1370.0,1530.0,0.145
+University of California—​Berkeley,Yes (TB),2021 2022 2023 2024,89621,1300.0,1530.0,0.14800000000000002
+Tufts University,Yes,2021 2022 2023,22766,1390.0,1540.0,0.15
+Washington University in St. Louis,Yes,2021,31320,1470.0,1570.0,0.15
+Middlebury College,Yes,2021 2022 2023,9754,1360.0,1530.0,0.154
+Carnegie Mellon University,Yes,2021,27634,1460.0,1560.0,0.154
+University of Notre Dame,Yes,2021,22200,1400.0,1550.0,0.158
+The Cooper Union,Yes,2021 2022,2447,1283.0,1510.0,0.16
+New York University,Yes,2021,79462,1370.0,1510.0,0.162
+Haverford College,Yes,2021 2022 2023,4963,1380.0,1540.0,0.163
+Wesleyan University,Yes,All / Permanent Policy,13264,1320.0,1510.0,0.165
+Hamilton College,Yes,2021,8279,1370.0,1520.0,0.165
+Northeastern University,Yes,2021,62263,1390.0,1540.0,0.18100000000000002
+Davidson College,Yes,2021 2022 2023,5982,1310.0,1485.0,0.18100000000000002
+Emory University,Yes,2021,27559,1350.0,1520.0,0.185
+Carleton College,Yes,2021,7382,1360.0,1540.0,0.19
+Georgia Institute of Technology,Yes,2021,36856,1300.0,1510.0,0.20600000000000002
+Washington and Lee University,Yes,2021,5855,1348.0,1490.0,0.212
+Wellesley College,Yes,2021,6395,1360.0,1530.0,0.21600000000000003
+Boston University,Yes,2021,64481,1330.0,1500.0,0.221
+Colgate University,Yes,2021,9951,1330.0,1500.0,0.226
+University of North Carolina—​Chapel Hill,Yes,2021,42466,1300.0,1490.0,0.226
+University of Michigan—​Ann Arbor,Yes,2021,64972,1340.0,1530.0,0.22899999999999998
+Vassar College,Yes,2021,8961,1370.0,1530.0,0.237
+Rhode Island School of Design,Yes,All / Permanent Policy,3913,1180.0,1440.0,0.239
+University of Virginia,Yes,2021,40839,1340.0,1500.0,0.239
+Grinnell College,Yes,2021,7349,1370.0,1530.0,0.244
+Babson College,Yes,2021,6362,1270.0,1450.0,0.24
+University of California—​Irvine,Yes (TB),2021 2022 2023 2024,95568,1180.0,1440.0,0.265
+University of Miami,Yes,2021,38919,1280.0,1420.0,0.271
+Boston College,Yes,2021,35552,1370.0,1490.0,0.272
+Villanova University,Yes,2021,22909,1320.0,1470.0,0.282
+University of Richmond,Yes,2021,12356,1290.0,1460.0,0.28300000000000003
+California State Polytechnic University—​San Luis Obispo,Yes (TB),2021,54072,1250.0,1420.0,0.284
+Trinity University,Yes,2021 2022 2023,9864,1290.0,1450.0,0.28800000000000003
+Case Western Reserve University,Yes,2021,26642,1350.0,1520.0,0.293
+University of Rochester,Yes,All / Permanent Policy,20216,1300.0,1500.0,0.295
+University of California—​Santa Barbara,Yes,2021 2022 2023 2024,93457,1260.0,1460.0,0.29600000000000004
+Wake Forest University,Yes,All / Permanent Policy,12559,1320.0,1490.0,0.29600000000000004
+Skidmore College,Yes,All / Permanent Policy,11102,1220.0,1400.0,0.3
+University of California—​San Diego,Yes,2021 2022 2023 2024,97901,1250.0,1470.0,0.302
+Franklin and Marshall College,Yes,All / Permanent Policy,9502,1250.0,1460.0,0.304
+Brandeis University,Yes,All / Permanent Policy,11798,1280.0,1500.0,0.311
+Lafayette College,Yes,2021,8521,1250.0,1440.0,0.315
+American University,Yes,All / Permanent Policy,18984,1220.0,1380.0,0.315
+University of Texas—​Austin,Yes,2021,53525,1240.0,1470.0,0.318
+Scripps College,Yes,All / Permanent Policy,3022,1333.0,1490.0,0.32
+Lehigh University,Yes,2021,15649,1280.0,1450.0,0.321
+Macalester College,Yes,All / Permanent Policy,6598,1320.0,1510.0,0.32299999999999995
+Smith College,Yes,All / Permanent Policy,5597,1340.0,1520.0,0.325
+Bryn Mawr College,Yes,All / Permanent Policy,3332,1290.0,1510.0,0.331
+Trinity College (Hartford),Yes,All / Permanent Policy,6096,1300.0,1460.0,0.335
+Denison University,Yes,All / Permanent Policy,8042,1210.0,1380.0,0.33899999999999997
+San Diego State University,Yes (TB),2021,69842,1110.0,1320.0,0.34
+Kenyon College,Yes,2021,6662,1270.0,1460.0,0.341
+College of the Holy Cross,Yes,All / Permanent Policy,7200,1260.0,1430.0,0.342
+Bucknell University,Yes,2021 2022 2023 2024 2025,9845,1255.0,1430.0,0.342
+Emerson College,Yes,All / Permanent Policy,12941,1200.0,1390.0,0.35600000000000004
+Pepperdine University,Yes,2021,11265,1220.0,1420.0,0.35700000000000004
+Hampton University,Yes*,All / Permanent Policy,13028,1040.0,1310.0,0.36
+Oberlin College,Yes,2021 2022 2023,7708,1280.0,1480.0,0.364
+CUNY--Hunter,Yes (TB),2021,31030,1090.0,1260.0,0.364
+Occidental College,Yes,2021,7501,1300.0,1480.0,0.36700000000000005
+Connecticut College,Yes,All / Permanent Policy,6784,1310.0,1450.0,0.374
+College of William and Mary,Yes,2021 2022 2023,14680,1320.0,1510.0,0.377
+Mount Holyoke College,Yes,All / Permanent Policy,3908,1270.0,1490.0,0.382
+Berea College,Yes,2021,1576,1030.0,1213.0,0.382
+Pratt Institute,Yes,2021,7941,1100.0,1320.0,0.385
+Soka University of America,Yes,2021,464,1180.0,1410.0,0.38799999999999996
+California State University--Los Angeles,Yes (TB),2021,39854,890.0,1080.0,0.39
+California State University--Long Beach,Yes (TB),2021,71297,1040.0,1250.0,0.39299999999999996
+Reed College,Yes (TB),2021 2022,5815,1325.0,1520.0,0.395
+Binghamton University—​SUNY,Yes,2021,38755,1310.0,1440.0,0.39799999999999996
+Dickinson College,Yes,All / Permanent Policy,6426,1240.0,1410.0,0.401
+University of Tulsa,Yes,2021,8526,1180.0,1410.0,0.408
+George Washington University,Yes,All / Permanent Policy,26968,1280.0,1470.0,0.409
+University of California—​Davis,Yes,2021 2022 2023 2024,76647,1150.0,1410.0,0.41200000000000003
+Stevens Institute of Technology,Yes,2021,9265,1330.0,1480.0,0.414
+St. Lawrence University,Yes,All / Permanent Policy,6998,1160.0,1350.0,0.424
+Union College (Schenectady NY),Yes,All / Permanent Policy,6086,1220.0,1420.0,0.429
+Rensselaer Polytechnic Institute,Yes,2021,20402,1330.0,1500.0,0.43
+Bentley University,Yes,2021,9252,1240.0,1410.0,0.43200000000000005
+CUNY--Baruch College,Yes (TB),2021,20303,1130.0,1330.0,0.434
+Spelman College,Yes,2021,9106,1080.0,1230.0,0.434
+Loyola Marymount University,Yes,2021,18592,1230.0,1410.0,0.43799999999999994
+University of Maryland—​College Park,Yes,2021,32987,1280.0,1480.0,0.441
+Stony Brook University—​SUNY,Yes,2021,37079,1230.0,1440.0,0.441
+Rhodes College,Yes,2021 2022 2023,5207,1220.0,1430.0,0.447
+North Carolina State University—​Raleigh,Yes,2021,30995,1250.0,1390.0,0.449
+Baylor University,Yes,2021,34582,1200.0,1380.0,0.45299999999999996
+University of Dallas,Yes,2021,4676,1150.0,1360.0,0.45299999999999996
+Gettysburg College,Yes,All / Permanent Policy,6269,1270.0,1420.0,0.45399999999999996
+Fordham University,Yes,2021 2022,46308,1250.0,1430.0,0.46
+Texas Christian University,Yes,2021,19028,1150.0,1350.0,0.47100000000000003
+Southern Methodist University,Yes,2021,13959,1300.0,1480.0,0.473
+Providence College,Yes,All / Permanent Policy,11478,1210.0,1350.0,0.475
+St. Olaf College,Yes,All / Permanent Policy,5694,1190.0,1430.0,0.475
+University of New Mexico,Yes,All / Permanent Policy,12281,1040.0,1270.0,0.486
+University of Georgia,Yes,2021,26027,1240.0,1410.0,0.486
+University of San Diego,Yes,All / Permanent Policy,13755,1200.0,1350.0,0.48700000000000004
+University of Connecticut,Yes,2021 2022 2023,34886,1210.0,1420.0,0.488
+Santa Clara University,Yes,2021 2022,16300,1280.0,1440.0,0.488
+Southwestern University,Yes,All / Permanent Policy,4766,1140.0,1320.0,0.49
+Pennsylvania State University—​University Park,Yes,2021,71903,1160.0,1370.0,0.491
+Marist College,Yes,All / Permanent Policy,11260,1210.0,1360.0,0.49200000000000005
+The College of New Jersey,Yes,2021 2022 2023,13824,1160.0,1360.0,0.493
+Worcester Polytechnic Institute,Yes,All / Permanent Policy,10645,1310.0,1470.0,0.494
+Syracuse University,Yes,2021,34981,1180.0,1370.0,0.499
+University of La Verne,Yes,All / Permanent Policy,7276,1020.0,1205.0,0.509
+Clemson University,Yes,2021,29070,1230.0,1400.0,0.513
+Austin College,Yes,All / Permanent Policy,4360,1110.0,1290.0,0.513
+University of California—​Santa Cruz,Yes (TB),2021 2022 2023 2024,55906,1200.0,1360.0,0.515
+University of Washington--Seattle,Yes,All / Permanent Policy,45579,1240.0,1440.0,0.518
+California State University--Fullerton,Yes (TB),2021,50105,1030.0,1200.0,0.527
+University of Wisconsin—​Madison,Yes,2021 2022,43921,1330.0,1450.0,0.53
+Colorado School of Mines,Yes,2021,11756,1260.0,1460.0,0.531
+Chapman University,Yes,All / Permanent Policy,14198,1190.0,1370.0,0.536
+Ohio State University—​Columbus,Yes,2021,47703,1250.0,1460.0,0.537
+Texas Lutheran University,Yes,2021,2198,990.0,1160.0,0.5429999999999999
+University at Albany—​SUNY,Yes,2021,27529,1090.0,1250.0,0.5429999999999999
+Georgia Southern,Yes,2021,13858,1050.0,1200.0,0.545
+College of Wooster,Yes,All / Permanent Policy,6352,1150.0,1380.0,0.547
+San Jose State University,Yes (TB),2021,36243,1040.0,1260.0,0.547
+California State Polytechnic University--Pomona,Yes (TB),2021,36660,1030.0,1250.0,0.555
+Whitman College,Yes,All / Permanent Policy,4832,1240.0,1450.0,0.5579999999999999
+Sarah Lawrence College,Yes,All / Permanent Policy,3325,1240.0,1420.0,0.5579999999999999
+New School,Yes,All / Permanent Policy,9911,1150.0,1360.0,0.5660000000000001
+University of Pittsburgh,Yes,2021,32091,1260.0,1440.0,0.5670000000000001
+University of California Riverside,Yes,2021 2022 2023 2024,49788,1130.0,1340.0,0.5670000000000001
+University of Minnesota—​Twin Cities,Yes,2021,40673,1260.0,1480.0,0.5670000000000001
+Hobart and William Smith Colleges,Yes,All / Permanent Policy,4526,1203.0,1360.0,0.569
+Abilene Christian University,Yes,2021,11569,1040.0,1230.0,0.57
+Bennington College,Yes,All / Permanent Policy,1494,1230.0,1390.0,0.57
+Birmingham-​Southern College,Yes,All / Permanent Policy,3628,1040.0,1250.0,0.57
+Fairfield University,Yes,All / Permanent Policy,12315,1210.0,1350.0,0.5710000000000001
+Georgia State,Yes,2021,19838,990.0,1190.0,0.574
+Texas A&M University—​College Station,Yes,2021,42899,1160.0,1390.0,0.575
+Saint Louis University,Yes,2021,15120,1180.0,1370.0,0.575
+St. John's College Annapolis,Yes,All / Permanent Policy,913,1210.0,1450.0,0.5760000000000001
+Lake Forest College,Yes,All / Permanent Policy,4147,1110.0,1310.0,0.579
+Kennesaw State University,Yes,2021,13427,1080.0,1270.0,0.579
+California State University--Fresno,Yes (TB),2021,18122,950.0,1130.0,0.579
+Rollins College,Yes,All / Permanent Policy,6167,1160.0,1340.0,0.583
+University of Hawaii at Manoa,Yes,2021,16244,1070.0,1270.0,0.584
+University of Denver,Yes,All / Permanent Policy,21028,1170.0,1350.0,0.5870000000000001
+Hampden-​Sydney College,Yes,2021,3240,1050.0,1250.0,0.59
+University of Illinois—​Urbana-​Champaign,Yes,2021,43509,1220.0,1480.0,0.59
+Millsaps College,Yes,2021,4161,1080.0,1260.0,0.593
+California State University--Northridge,Yes (TB),2021,30637,910.0,1130.0,0.593
+Clark University,Yes,All / Permanent Policy,7687,1200.0,1390.0,0.594
+Lipscomb University,Yes,2021,3638,1060.0,1320.0,0.595
+Virginia Military Institute,Yes,2021,1515,1090.0,1270.0,0.595
+Purdue University—​West Lafayette,Yes (TF),2021,54912,1190.0,1440.0,0.598
+Temple University,Yes,All / Permanent Policy,35599,1120.0,1320.0,0.6
+Rutgers The State University of New Jersey—​New Brunswick,Yes,2021,41348,1190.0,1410.0,0.601
+Illinois Institute of Technology,Yes,2021,5049,1190.0,1400.0,0.602
+Yeshiva University,Yes,2021,1508,1140.0,1400.0,0.603
+Illinois Wesleyan University,Yes,2021,3719,1120.0,1320.0,0.608
+Furman University,Yes,All / Permanent Policy,5469,1230.0,1410.0,0.611
+University at Buffalo—​SUNY,Yes,2021,29900,1160.0,1340.0,0.611
+Concordia College—​Moorhead,Yes,All / Permanent Policy,4160,1080.0,1368.0,0.612
+SUNY College of Environmental Science and Forestry,Yes,2021,2018,1120.0,1310.0,0.614
+University of Portland,Yes,2021,14505,1160.0,1330.0,0.615
+Cornell College,Yes,All / Permanent Policy,3118,1100.0,1345.0,0.618
+Muhlenberg College,Yes,All / Permanent Policy,4146,1170.0,1360.0,0.618
+Gonzaga University,Yes,2021,9279,1210.0,1358.0,0.619
+Beloit College,Yes,All / Permanent Policy,3657,1080.0,1380.0,0.62
+Lawrence University,Yes,All / Permanent Policy,3463,1200.0,1430.0,0.621
+University of Utah,Yes,2021 2022 2023,24404,1142.5,1380.0,0.621
+Allegheny College,Yes,All / Permanent Policy,5208,1170.0,1360.0,0.622
+University of Delaware,Yes,2021,27691,1170.0,1350.0,0.624
+Westmont College,Yes,2021,2937,1110.0,1370.0,0.624
+Luther College,Yes,2021,4422,1050.0,1310.0,0.626
+Rutgers The State University of New Jersey—​Newark,Yes,2021,13259,1020.0,1190.0,0.627
+Earlham College,Yes,All / Permanent Policy,2070,1100.0,1370.0,0.634
+Augustana College,Yes,All / Permanent Policy,6211,1070.0,1280.0,0.636
+Wofford College,Yes,All / Permanent Policy,3522,1180.0,1350.0,0.636
+New Jersey Institute of Technology,Yes,2021,8123,1190.0,1380.0,0.637
+University of Massachusetts—​Amherst,Yes,2021 2022 2023,42157,1190.0,1390.0,0.638
+Wabash College,Yes,2021,1307,1120.0,1320.0,0.642
+DePauw University,Yes,All / Permanent Policy,4935,1130.0,1360.0,0.644
+Drury University,Yes,All / Permanent Policy,1664,1045.0,1225.0,0.644
+St. John Fisher College,Yes,2021 2022,4720,1070.0,1260.0,0.645
+University of San Francisco,Yes,All / Permanent Policy,18411,1130.0,1330.0,0.6459999999999999
+Bard College,Yes,All / Permanent Policy,5141,1248.0,1420.0,0.6459999999999999
+Goshen College,Yes,2021,1278,1010.0,1210.0,0.647
+Agnes Scott College,Yes,All / Permanent Policy,1751,1130.0,1340.0,0.648
+Virginia Polytechnic Institute and State University,Yes,2021,31936,1180.0,1390.0,0.648
+University of Houston,Yes,2021,25393,1140.0,1310.0,0.65
+University of North Carolina—​Charlotte,Yes,2021,21867,1120.0,1290.0,0.65
+Truman State University,Yes (TF),2021,4568,1080.0,1358.0,0.653
+University of North Carolina—​Wilmington,Yes,2021,13287,1170.0,1320.0,0.655
+SUNY—​Geneseo,Yes,2021,10433,1120.0,1310.0,0.655
+Embry-​Riddle Aeronautical University,Yes,All / Permanent Policy,6017,1110.0,1320.0,0.655
+University of the Pacific,Yes,All / Permanent Policy,13096,1130.0,1360.0,0.6559999999999999
+Rochester Institute of Technology,Yes,All / Permanent Policy,18948,1200.0,1400.0,0.66
+Berry College,Yes,All / Permanent Policy,3970,1110.0,1310.0,0.6609999999999999
+Mississippi State University,Yes,2021,18269,1070.0,1280.0,0.6629999999999999
+Sewanee—​University of the South,Yes,All / Permanent Policy,3545,1150.0,1340.0,0.667
+Hanover College,Yes,All / Permanent Policy,7795,1078.0,1300.0,0.669
+Coe College,Yes*,All / Permanent Policy,7795,1078.0,1300.0,0.669
+Randolph-​Macon College,Yes,2021,2907,1020.0,1240.0,0.6709999999999999
+Loyola University Chicago,Yes,All / Permanent Policy,25583,1140.0,1320.0,0.672
+University of Vermont,Yes,2021,19233,1180.0,1360.0,0.6729999999999999
+San Francisco State University,Yes (TB),2021,34629,940.0,1150.0,0.6729999999999999
+Brigham Young University—​Provo,Yes,2021,10500,1210.0,1420.0,0.675
+Drake University,Yes,All / Permanent Policy,6944,1100.0,1370.0,0.6759999999999999
+Stonehill College,Yes,All / Permanent Policy,6961,1120.0,1290.0,0.677
+Elmhurst College,Yes,2021,4175,990.0,1210.0,0.6779999999999999
+Taylor University,Yes,All / Permanent Policy,2341,1080.0,1310.0,0.6809999999999999
+DePaul University,Yes,All / Permanent Policy,26895,1070.0,1290.0,0.682
+Knox College,Yes,All / Permanent Policy,3397,1090.0,1350.0,0.6829999999999999
+Hofstra University,Yes,All / Permanent Policy,24425,1160.0,1340.0,0.685
+Ithaca College,Yes,All / Permanent Policy,15278,1160.0,1338.0,0.685
+California State University--San Bernardino,Yes (TB),2021,16307,910.0,1090.0,0.6859999999999999
+University of South Carolina,Yes,2021,31268,1180.0,1370.0,0.6859999999999999
+Albion College,Yes,2021,4043,990.0,1200.0,0.688
+Presbyterian College (SC),Yes,All / Permanent Policy,2462,1010.0,1210.0,0.688
+Texas Tech University,Yes,2021,25384,1070.0,1260.0,0.6890000000000001
+Ohio Wesleyan University,Yes,All / Permanent Policy,4705,1060.0,1295.0,0.69
+Ripon College,Yes,All / Permanent Policy,2619,1000.0,1210.0,0.69
+Drew University,Yes,All / Permanent Policy,3788,1110.0,1310.0,0.6920000000000001
+Gustavus Adolphus College,Yes,All / Permanent Policy,4957,,,0.6920000000000001
+Central Michigan,Yes,2021,16411,990.0,1200.0,0.695
+Oklahoma State University,Yes,2021,15277,1040.0,1265.0,0.7
+Bradley University,Yes,All / Permanent Policy,10708,1070.0,1270.0,0.7020000000000001
+Seton Hall University,Yes,2021,19260,1150.0,1310.0,0.7040000000000001
+Biola University,Yes,2021,4149,1080.0,1310.0,0.705
+Ursinus College,Yes,All / Permanent Policy,3361,1140.0,1320.0,0.7090000000000001
+Montclair State,Yes,All / Permanent Policy,14324,990.0,1170.0,0.7090000000000001
+Clarkson University,Yes,2021,6885,1160.0,1350.0,0.711
+Michigan State University,Yes,2021,44322,1100.0,1320.0,0.711
+Hollins University,Yes,2021,3244,1070.0,1300.0,0.7120000000000001
+Creighton University,Yes,All / Permanent Policy,10112,1150.0,1350.0,0.7140000000000001
+California Lutheran University,Yes,All / Permanent Policy,5752,1070.0,1250.0,0.715
+University of Mary Washington,Yes,All / Permanent Policy,5909,1050.0,1269.0,0.718
+Christopher Newport University,Yes*,All / Permanent Policy,7204,1110.0,1280.0,0.7190000000000001
+University of California—Merced,Yes,2021 2022 2023 2024,25368,980.0,1180.0,0.72
+Mercer University,Yes,2021 2022 2023,5454,1180.0,1340.0,0.72
+University of Dayton,Yes,2021,17462,1120.0,1320.0,0.72
+Lewis & Clark College,Yes,All / Permanent Policy,5863,1220.0,1400.0,0.722
+Hendrix College,Yes,All / Permanent Policy,1545,1153.0,1390.0,0.722
+University of Rhode Island,Yes,2021,21259,1012.0,1345.0,0.723
+California State University--Chico,Yes (TB),2021,25908,990.0,1180.0,0.723
+Stetson University,Yes,All / Permanent Policy,13005,1110.0,1300.0,0.7240000000000001
+Quinnipiac University,Yes,All / Permanent Policy,22753,1090.0,1260.0,0.725
+Duquesne University,Yes,All / Permanent Policy,7411,1130.0,1300.0,0.725
+University of Illinois—​Chicago,Yes,2021,22696,1030.0,1260.0,0.727
+University of Akron,Yes,2021,14553,990.0,1230.0,0.73
+St. John's University (NY),Yes,All / Permanent Policy,27276,1070.0,1270.0,0.731
+University of Cincinnati,Yes,2021 2022,23296,1160.0,1370.0,0.731
+Simmons University,Yes,2021,2933,1110.0,1290.0,0.731
+Wayne State University,Yes,2021,15716,1010.0,1230.0,0.731
+Butler University,Yes,All / Permanent Policy,14891,1150.0,1330.0,0.732
+Point Loma Nazarene University,Yes,2021,3277,1140.0,1310.0,0.737
+University of North Texas,Yes*,2021,21540,1060.0,1250.0,0.737
+University of North Georgia,Yes,2021,6498,1108.0,1273.0,0.737
+Xavier University,Yes,All / Permanent Policy,15100,1070.0,1250.0,0.738
+Wheaton College (MA),Yes,All / Permanent Policy,3460,1150.0,1340.0,0.7390000000000001
+Eastern Michigan,Yes*,2021,14323,970.0,1190.0,0.741
+University of Washington--Bothell,Yes,2021,4242,1038.0,1250.0,0.741
+Adelphi University,Yes,2021,13006,1080.0,1270.0,0.742
+Baldwin Wallace University,Yes,All / Permanent Policy,3926,1030.0,1250.0,0.742
+Michigan Technological University,Yes,2021,5978,1170.0,1370.0,0.743
+Drexel University,Yes,2021,31824,1190.0,1390.0,0.747
+University of Redlands,Yes,All / Permanent Policy,4713,1100.0,1250.0,0.75
+Loyola University New Orleans,Yes (TB),All / Permanent Policy,5857,1050.0,1260.0,0.75
+California State University--Monterey Bay,Yes (TB),2021,12327,960.0,1170.0,0.753
+Whittier College,Yes*,All / Permanent Policy,6220,1030.0,1213.0,0.759
+Kalamazoo College,Yes,All / Permanent Policy,3576,1170.0,1370.0,0.76
+Towson University,Yes,2021,12678,1060.0,1220.0,0.763
+Centre College,Yes,2021 2022 2023,2212,1130.0,1380.0,0.764
+University of Texas San Antonio,Yes,2021,17122,1030.0,1220.0,0.7659999999999999
+Ball State,Yes,All / Permanent Policy,23305,,,0.767
+James Madison University,Yes,All / Permanent Policy,23578,1120.0,1290.0,0.768
+Appalachian State University,Yes,2021,16664,1100.0,1270.0,0.768
+Indiana University—​Bloomington,Yes,All / Permanent Policy,44169,1150.0,1360.0,0.769
+High Point University,Yes,All / Permanent Policy,10098,1090.0,1250.0,0.769
+Virginia Commonwealth University,Yes*,All / Permanent Policy,18622,1070.0,1260.0,0.7709999999999999
+University of Arkansas—​Fayetteville,Yes*,2021,17913,1120.0,1300.0,0.7709999999999999
+John Brown University,Yes,2021,1094,1060.0,1365.0,0.7709999999999999
+University of Idaho,Yes,2021,8071,1010.0,1240.0,0.778
+University of Missouri,Yes,2021,18948,1090.0,1290.0,0.778
+Willamette University,Yes,All / Permanent Policy,3972,1140.0,1340.0,0.779
+University of Nebraska—​Lincoln,Yes*,All / Permanent Policy,16829,1120.0,1360.0,0.782
+Carroll College,Yes*,All / Permanent Policy,2709,1070.0,1270.0,0.7829999999999999
+College of Charleston,Yes,2021,11783,1080.0,1260.0,0.7829999999999999
+University of Colorado—​Boulder,Yes,2021,40740,1140.0,1350.0,0.784
+Elon University,Yes,2021 2022 2023,10500,1160.0,1320.0,0.784
+Seattle University,Yes,All / Permanent Policy,7968,1160.0,1330.0,0.785
+University of Texas—​Dallas,Yes,2021,14327,1240.0,1460.0,0.7859999999999999
+East Carolina,Yes,2021,19234,1030.0,1190.0,0.787
+University of Tennessee,Yes,2021,21764,1150.0,1330.0,0.7879999999999999
+University of Texas Arlington,Yes,2021,12335,1060.0,1260.0,0.795
+Pacific Lutheran University,Yes,All / Permanent Policy,3740,1070.0,1270.0,0.7979999999999999
+Western Michigan,Yes,2021,17698,1000.0,1210.0,0.799
+Loyola University Maryland,Yes,All / Permanent Policy,10077,1143.0,1320.0,0.802
+Miami University—​Oxford,Yes,2021,28920,1210.0,1410.0,0.804
+Goucher College,Yes,All / Permanent Policy,3154,1040.0,1290.0,0.804
+University of Oklahoma,Yes,2021,15673,1130.0,1310.0,0.804
+Auburn University,Yes,2021,20205,1150.0,1320.0,0.807
+University of Nevada—​Las Vegas,Yes*,All / Permanent Policy,12720,1030.0,1250.0,0.807
+Boise State,Yes (TB),2021,10788,960.0,1180.0,0.8079999999999999
+St. Mary's College of California,Yes,All / Permanent Policy,6069,1070.0,1240.0,0.81
+Siena College,Yes,All / Permanent Policy,7728,1070.0,1280.0,0.8109999999999999
+University of North Dakota,Yes,2021,4964,1010.0,1250.0,0.8109999999999999
+Texas State University,Yes,2021,23583,1010.0,1180.0,0.8109999999999999
+Colorado State University,Yes,2021,28319,1070.0,1290.0,0.8140000000000001
+University of Memphis,Yes,2021,15381,1010.0,1230.0,0.8140000000000001
+West Virginia University,Yes,2021,18639,1050.0,1240.0,0.816
+University of Oregon,Yes,All / Permanent Policy,27358,1100.0,1310.0,0.816
+University of St. Thomas (MN),Yes,All / Permanent Policy,6819,1130.0,1380.0,0.8190000000000001
+St. Mary's College (IN),Yes,All / Permanent Policy,1862,1050.0,1260.0,0.8190000000000001
+Illinois State,Yes,All / Permanent Policy,16151,1020.0,1220.0,0.8190000000000001
+Ohio University,Yes,All / Permanent Policy,24179,1050.0,1260.0,0.821
+California State University--Sacramento,Yes (TB),2021,27576,940.0,1140.0,0.823
+University of North Carolina—​Greensboro,Yes,2021,9972,1000.0,1160.0,0.8240000000000001
+University of Iowa,Yes,2021,25928,1130.0,1340.0,0.826
+St. Michael's College,Yes,All / Permanent Policy,4040,1140.0,1320.0,0.826
+University of Alaska Anchorage,Yes,All / Permanent Policy,3673,1020.0,1220.0,0.83
+Marquette University,Yes,All / Permanent Policy,15078,1120.0,1320.0,0.83
+College of St. Benedict,Yes,All / Permanent Policy,1931,990.0,1210.0,0.8340000000000001
+Oregon State University,Yes,All / Permanent Policy,15786,1080.0,1320.0,0.836
+The Catholic University of America,Yes (TB),All / Permanent Policy,6096,1140.0,1320.0,0.8370000000000001
+University of Puget Sound,Yes,All / Permanent Policy,5182,1150.0,1370.0,0.838
+University of New Hampshire,Yes,All / Permanent Policy,18040,1070.0,1270.0,0.84
+Missouri University of Science & Technology,Yes,2021,4333,1180.0,1380.0,0.8420000000000001
+St. Mary's College of Maryland,Yes,All / Permanent Policy,1621,1060.0,1290.0,0.843
+University of Arizona,Yes,All / Permanent Policy,40854,1120.0,1350.0,0.846
+Susquehanna University,Yes,All / Permanent Policy,4863,1100.0,1290.0,0.848
+Arizona State University—​Tempe,Yes*,All / Permanent Policy,26869,1130.0,1360.0,0.848
+Wheaton College (IL),Yes,2021,1889,1220.0,1440.0,0.848
+Northern Arizona,Yes,All / Permanent Policy,36855,1030.0,1230.0,0.85
+Washington and Jefferson College,Yes,All / Permanent Policy,2722,1090.0,1280.0,0.852
+Kent State,Yes,All / Permanent Policy,16308,1040.0,1230.0,0.855
+Mills College,Yes,All / Permanent Policy,1003,1008.0,1240.0,0.855
+Hope College,Yes,2021,3748,1130.0,1330.0,0.857
+Valparaiso University,Yes,2021 2022,5491,1070.0,1290.0,0.858
+George Mason University,Yes,All / Permanent Policy,19554,1110.0,1320.0,0.867
+Old Dominion,Yes,All / Permanent Policy,13335,990.0,1200.0,0.87
+Missouri State,Yes*,2021,7581,1040.0,1240.0,0.879
+University of Wisconsin Milwaukee,Yes,2021,8280,1000.0,1398.0,0.885
+Transylvania University,Yes,All / Permanent Policy,1702,1100.0,1310.0,0.887
+Weber State,Yes,All / Permanent Policy,6853,,,0.8909999999999999
+University of Maine,Yes,2021 2022,13118,1050.0,1260.0,0.902
+Humboldt State University,Yes (TB),2021,16335,980.0,1190.0,0.909
+Utah State,Yes,2021,15276,1050.0,1310.0,0.91
+Iowa State University,Yes,2021,18246,1100.0,1340.0,0.9209999999999999
+Washington College,Yes,All / Permanent Policy,2225,1090.0,1300.0,0.924
+University of Montana,Yes,2021,6182,1060.0,1270.0,0.9259999999999999
+Samford University,Yes,2021,3912,1070.0,1250.0,0.929
+University of Kansas,Yes*,All / Permanent Policy,15093,,,0.9309999999999999
+University of Kentucky,Yes,2021,19324,1080.0,1300.0,0.945
+University of Toledo,Yes,All / Permanent Policy,10228,1000.0,1240.0,0.951
+Kansas State University,Yes*,All / Permanent Policy,8140,,,0.9570000000000001
+Portland State,Yes,All / Permanent Policy,7821,1010.0,1230.0,0.961
+Queens University of Charlotte,Yes,All / Permanent Policy,2319,1040.0,1240.0,0.9620000000000001
+Western Kentucky,Yes*,All / Permanent Policy,8245,990.0,1220.0,0.973
+United States Naval Academy,No,,16332,1240.0,1520.0,0.083
+United States Military Academy,No,,11675,1160.0,1380.0,0.10300000000000001
+United States Air Force Academy,No,,10354,1230.0,1440.0,0.111
+United States Coast Guard Academy,No,,2274,1245.0,1420.0,0.128
+United States Merchant Maritime Academy,No,,1693,1200.0,1340.0,0.248
+Howard University,No,,20946,1140.0,1285.0,0.316
+Florida State University,No,,58936,1200.0,1340.0,0.36
+Hillsdale College,No,,2208,1275.0,1465.0,0.36
+University of Central Florida,No,,35240,1160.0,1340.0,0.382
+University of Florida,No,,38905,1280.0,1440.0,0.38799999999999996
+University of South Florida,No,,36986,1170.0,1330.0,0.47700000000000004
+Gallaudet University,No,,496,793.0,1078.0,0.5710000000000001
+Florida International,No,,18492,1240.0,1300.0,0.575
+Morehouse College,No,,3554,1010.0,1210.0,0.579
+University of Alabama,No,,37302,1060.0,1280.0,0.591
+Milwaukee School of Engineering,No,,3552,,,0.617
+Florida Institute of Technology,No,,9743,1150.0,1360.0,0.657
+Louisiana State University—​Baton Rouge,No,,24501,1080.0,1310.0,0.746
+The Citadel,No,,2742,1050.0,1230.0,0.747
+New College of Florida,No,,1340,1220.0,1420.0,0.768
+Thomas Aquinas College,No,,211,1220.0,1400.0,0.777
+University of Texas Rio Grande Valley,No,,10680,950.0,1130.0,0.7979999999999999
+University of South Dakota,No,,4434,990.0,1180.0,0.8640000000000001
+University of Mississippi,No,,15371,1050.0,1270.0,0.8809999999999999
+University of Wyoming,No,,5348,1060.0,1280.0,0.96
+University of Texas El Paso,No,,7157,820.0,1050.0,0.9990000000000001
